@@ -146,7 +146,7 @@
 
 
 		// SLIDER
-		var menu = ['RANN UTSAV', 'ROAD TO HEAVEN', 'KHARI NADI', 'RYAN RESORT'];
+		var menu = ['<span>RANN UTSAV</span>', '<span>ROAD TO HEAVEN</span>', '<span>KHARI NADI</span>', '<span>RYAN RESORT</span>'];
 		var interleaveOffset = 0.5;
 		var swiperOptions = {
 			loop: true,
