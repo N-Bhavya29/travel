@@ -146,7 +146,7 @@
 
 
 		// SLIDER
-		var menu = ['<span>RANN UTSAV</span>', '<span>ROAD TO HEAVEN</span>', '<span>KHARI NADI</span>', '<span>RYAN RESORT</span>'];
+		var menu = ['WHO WE ARE<span>WHY TRAVEL WITH US?</span>', 'RYAN RESORT<span>BEST DEAL HOTEL</span>', 'ROAD TO HEAVEN, MANDVI, DHOLAVEERA<span>INCREDIBLE KUTCH TOUR</span>', 'WHITE RANN TENT CITY EXPERIENCE<span>HERITAGE KUTCH TOUR</span>'];
 		var interleaveOffset = 0.5;
 		var swiperOptions = {
 			loop: true,
